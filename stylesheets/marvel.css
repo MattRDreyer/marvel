@@ -1,0 +1,18 @@
+h1 {
+  font-size: 50px;
+}
+
+body {
+  background-color: silver;
+
+}
+
+#characterSearch {
+  height: 25px;
+  font-weight: bold;
+}
+
+#marvelLogo {
+  margin-right: 25%;
+  float: right;
+}
